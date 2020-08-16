@@ -36,5 +36,5 @@ In your case, I want you to write noticing these
 differenciations* , waiting for the geyser to burst.
 I want to you to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
-
 '''
++++
