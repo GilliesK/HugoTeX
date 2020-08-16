@@ -8,7 +8,7 @@ math: true
 
 
 Going to write some things here
-
++++
 ```
 Firstly, I want to give some background:
 I want you to care about  territories
@@ -38,6 +38,7 @@ differenciations* , waiting for the geyser to burst.
 I want to you to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
++++
 +++
 
 {{< math.inline >}}
