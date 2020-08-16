@@ -1,4 +1,4 @@
-baseURL = "https://abdulai-gassama.netlify.app"
+baseURL = "https://abdulai-gassama.netlify.app/"
 title = "HugoTeX"
 paginate = 3
 languageCode = "en"
