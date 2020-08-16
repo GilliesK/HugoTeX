@@ -5,13 +5,14 @@ date: 2020-08-15
 description: Show Introudction and my will to write
 math: true
 ---
-+++
+
 
 Going to write some things here
-'''
-{{{Firstly, I want to give some background:
+
+```
+Firstly, I want to give some background:
 I want you to care about  territories
- that you feel will be meaningful someday.}}}
+ that you feel will be meaningful someday.
 It is  like waiting by a geyser (間欠泉)
 I want you to write literature within
 the territories’ milieus(ドゥルズー単語: 環境の現れ),
@@ -36,5 +37,14 @@ In your case, I want you to write noticing these
 differenciations* , waiting for the geyser to burst.
 I want to you to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
+```
++++
 
-'''
+{{< math.inline >}}
+{{ if or .Page.Params.math .Site.Params.math }}
+<!-- KaTeX -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+{{ end }}
+{{</ math.inline >}}
