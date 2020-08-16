@@ -7,13 +7,12 @@ math: true
 ---
 
 
-Going to write some things here
 ```
 Firstly, I want to give some background:
-I want you to care about  territories
- that you feel will be meaningful someday.
+I want  to care about  territories
+ that will feel  meaningful someday.
 It is  like waiting by a geyser (間欠泉)
-I want you to write literature within
+I want  to write literature within
 the territories’ milieus(ドゥルズー単語: 環境の現れ),
 about these milieus, that
 will eventually lead to one’s own sense of
@@ -32,9 +31,9 @@ meaning “to grasp”; the container will ossify and
 succeed to be different; territory is reproduced
 the same but what is in its container will be lost.
 “Difference” is born from each recall of the forests.
-In your case, I want you to write noticing these
+In your case, I want to write noticing these
 differenciations* , waiting for the geyser to burst.
-I want to you to make aesthetic essays on mutiplicity
+I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
 +++
