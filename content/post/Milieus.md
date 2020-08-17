@@ -40,5 +40,5 @@ I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
 
-**How are you**
+
 +++
