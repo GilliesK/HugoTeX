@@ -5,9 +5,10 @@ date: 2020-08-17
 description:
 math: true
 tags: ["milieu","geyser"]
-
+categories: [
+    "milieu",
+    "geyser"]
 ---
-<h1>Heading level 1</h1>
 
 ```
 It's not so much what I do say but what I contrast it with and leave out.
@@ -19,7 +20,7 @@ of a contemporaneous past, present, and future presented in the paragraph; the p
 interacting with the future and past while seemingly in the present.
 ◉Canonizing linguistic terms that will help to understand the book's chrestomathy
 
-But what does this look like? I like the structure of anime <h1>Clannad</h1> in which the narrative,without warning,
+But what does this look like? I like the structure of anime **Clannad** in which the narrative,without warning,
 is in the future, and then suddenly the narrative is in the present; or like the on-going manga Attack on Titan in which characters randomly spoil things
 that will be in the future pages; what occurred in the past seemingly repeating in the current page. (1)I'm thinking
 of the chapters being labeled by the matrix of selectivied words; two of matrix words/groups highlighted in conveying an
