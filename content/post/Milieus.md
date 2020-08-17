@@ -23,13 +23,13 @@ territory and accomplishment
 
 Because the milieus viewed via articulating
 the forests abstraction highlights what Boehme calls,
-“power,color, virue”(Boehme citation). What we view of
+“power,color, virue”(1). What we view of
 the forests are, in deleuzian terms, a refrain, a
 repetition of these collective mileus; a habit that
 allows variation. Borrowing the German neologism,
 Gefassete , the internal mileux produce a temporary
 existence as a representation of self in reflection
-upon territory. () Gasß meaning “container”, and fassen
+upon territory. Gasß meaning “container”, and fassen
 meaning “to grasp”; the container will ossify and
 succeed to be different; territory is reproduced
 the same but what is in its container will be lost.
@@ -39,6 +39,7 @@ differenciations* , waiting for the geyser to burst.
 I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
-
+***Footnote:***
+(1)Bruce B. Janz, *"The Territory is Not the Map: Place, Deleuze, Guattari, and African Philosophy"*;page 4
 
 +++
