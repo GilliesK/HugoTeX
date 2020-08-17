@@ -14,7 +14,7 @@ tags: [
 ```
 Firstly, I want to give some background:
 I want  to care about  territories
- that will feel  meaningful someday.
+that will feel  meaningful someday.
 It is  like waiting by a geyser (間欠泉)
 I want  to write literature within
 the territories’ milieus(ドゥルズー単語: 環境の現れ),
