@@ -7,7 +7,7 @@ math: true
 tags: ["milieu","geyser"]
 categories: [
     "milieu",
-    "geyser"]
+    "rhizome"]
 ---
 
 
