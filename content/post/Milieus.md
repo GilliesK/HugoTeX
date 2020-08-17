@@ -1,5 +1,5 @@
 ---
-author: Hugo Authors
+author: Abdulai Gassama
 title: Introductions and Milieus
 date: 2020-08-15
 description: Show Introudction and my will to write
