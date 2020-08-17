@@ -5,10 +5,11 @@ date: 2020-08-15
 description: Show Introudction and my will to write
 math: true
 tags: ["milieu","geyser"]
+categories: [
+    "milieu",
+    "geyser"]
 ---
-#Whats up bitches
-##Whats up bitches
-###I hate you
+
 ```
 Firstly, I want to give some background:
 I want  to care about  territories
@@ -38,4 +39,6 @@ differenciations* , waiting for the geyser to burst.
 I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
+
+**How are you**
 +++
