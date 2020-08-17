@@ -29,8 +29,9 @@ Going to this again and again, with the idea of cutting away from particular lin
 based on these contrasts. (2)The milieu is literately functional if I can incorporate the matrix and prose structure ideas; these incorporations
 are tools to (re/de)territorialize the milieu and retroactively capture différenciations.
 
+``````
+
 Footnotes:
 (1)Clannad started off rather cliché and Attack on Titan's  plot was standard storytelling but, for what seemed like spilling water on the pages, information from individual pages were deluged{arrived at the same time}. From the moment the protagonist wakes, the story was set in stone. Towards Attack on Titan's climax we found out the protagonist was actively affecting the past to be this way, which gave an entirely different perspective to things that originally seemed off. The author himself purposely spoiled the ending a few years ago by showing the final page to the public without context. For Clannad, it was originally a light novel game with multiple endings, which made the random time leaps for each individual story route quite interesting.
 
 (2)My headspace here is somewhat in Raymond Queneau's Exercise in Style. In other words, the same story is told multiple times in several different angles and beginnings, leaving some stuff out and focusing on other properties.
-``````
