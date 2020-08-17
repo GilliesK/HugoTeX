@@ -7,6 +7,8 @@ math: true
 tags: ["milieu","geyser"]
 
 ---
+<h1>Heading level 1</h1>
+
 ```
 It's not so much what I do say but what I contrast it with and leave out.
 Collectively, I'm thinking of ideas said before:
