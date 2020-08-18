@@ -22,12 +22,12 @@ will eventually lead to one’s own sense of
 territory and accomplishment
 
 Because the milieus viewed via articulating
-the forests abstraction highlights what Boehme calls,
+a forest's abstraction highlights what Boehme calls,
 “power,color, virue”(1). What we view of
-the forests are, in deleuzian terms, a refrain, a
+the forest is, in deleuzian terms, a refrain, a
 repetition of these collective mileus; a habit that
 allows variation. Borrowing the German neologism,
-Gefassete , the internal mileux produce a temporary
+Gefassete , the internal mileus produce a temporary
 existence as a representation of self in reflection
 upon territory. Gasß meaning “container”, and fassen
 meaning “to grasp”; the container will ossify and
