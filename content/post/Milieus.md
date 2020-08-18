@@ -39,7 +39,7 @@ differenciations, waiting for the geyser to burst(2).
 I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
-***Footnote:***
+***Footnote***:
 (1)Bruce B. Janz, *"The Territory is Not the Map: Place, Deleuze, Guattari, and African Philosophy"*;page 4
 
-(2)[It is purposedly spelled differenciations;http://deleuze.enacademic.com/50/differentiation___differenciation
+(2)It is purposedly spelled differenciations;http://deleuze.enacademic.com/50/differentiation___differenciation
