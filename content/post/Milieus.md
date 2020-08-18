@@ -42,4 +42,4 @@ and time duration. Ideas on perception and memory.
 ***Footnote***:
 (1)Bruce B. Janz, *"The Territory is Not the Map: Place, Deleuze, Guattari, and African Philosophy"*;page 4
 
-(2)[It is purposedly spelled differenciations](http://deleuze.enacademic.com/50/differentiation___differenciation)
+(2)[It is purposedly spelled "differenciations"](http://deleuze.enacademic.com/50/differentiation___differenciation)
