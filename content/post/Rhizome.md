@@ -22,10 +22,10 @@ interacting with the future and past while seemingly in the present.
 ```
 
 
-__But what does this look like?__ I like the structure of anime *Clannad* in which the narrative,without warning,
+__But what does this look like?__ I like the structure of the anime *Clannad* in which the narrative,without warning,
 is in the future, and then suddenly the narrative is in the present; or like the on-going manga *Attack on Titan* in which characters randomly spoil things
 that will be in the future pages; what occurred in the past seemingly repeating in the current page. (1)I'm thinking
-of the chapters being labeled by the matrix of selectivied words; two of matrix words/groups highlighted in conveying an
+of the chapters being labeled by the matrix of selectivied words; two words/groups highlighted in the matrix conveying an
 analogued language that the reader subconsciously picks up on and can reiterate on their own. (i.e it if it's a
 chinese collocation matrix, the reader knows more or less what the word means and how it would be used based on
 the varying degrees individual groups/words were highlighted and correspond with the analogued paragraph).
