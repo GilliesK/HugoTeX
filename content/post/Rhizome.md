@@ -11,7 +11,7 @@ categories: [
 ---
 
 
-***It's not so much what I  say but what I contrast with it with and leave out.***
+***It's not so much what I  say but what I contrast with it and leave out.***
 Collectively, I'm thinking of ideas said before:
 ```
 ◉A word matrix of individual collocations affected differently based on a weak-medium-strong system .
