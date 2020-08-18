@@ -34,7 +34,7 @@ meaning “to grasp”; the container will ossify and
 succeed to be different; territory is reproduced
 the same but what is in its container will be lost.
 “Difference” is born from each recall of the forests.
-In your case, I want to write noticing these
+In this case, I want to write noticing these
 differenciations* , waiting for the geyser to burst.
 I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
