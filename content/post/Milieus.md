@@ -35,9 +35,11 @@ succeed to be different; territory is reproduced
 the same but what is in its container will be lost.
 “Difference” is born from each recall of the forests.
 In this case, I want to write noticing these
-differenciations* , waiting for the geyser to burst.
+differenciations, waiting for the geyser to burst(2).
 I want to make aesthetic essays on mutiplicity
 and time duration. Ideas on perception and memory.
 ```
 ***Footnote:***
 (1)Bruce B. Janz, *"The Territory is Not the Map: Place, Deleuze, Guattari, and African Philosophy"*;page 4
+(2)[It is purposedly spelled differenciations](http://deleuze.enacademic.com/50/differentiation___differenciation)
+  http://deleuze.enacademic.com/50/differentiation___differenciation
