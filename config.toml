@@ -1,5 +1,5 @@
 baseURL = "https://abdulai-gassama.netlify.app/"
-title = "間欠泉"
+title = "HugoTeX"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -7,8 +7,9 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [author]
-  name = "Abdulai Gassama"
-  abstract = "Hello, this my own personal website"
+  name = "Abdulai"
+  abstract = "Hello, this my own personal website.
+             The font is purposedly hard to read in case to quickly disinterest"
 
 [taxonomies]
 category = "categories"
