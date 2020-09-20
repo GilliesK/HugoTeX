@@ -22,6 +22,8 @@ interacting with the future and past while seemingly in the present.
 ```
 
 
+
+
 __But what does this look like?__ I like the structure of the anime *Clannad* in which the narrative,without warning,
 is in the future, and then suddenly the narrative is in the present; or like the on-going manga *Attack on Titan* in which characters randomly spoil things
 that will be in the future pages; what occurred in the past seemingly repeating in the current page. (1)I'm thinking

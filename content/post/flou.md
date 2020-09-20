@@ -1,7 +1,7 @@
 ---
 author: Hugo Authors
 title: Flou
-date: 2020-09-2020
+date: 2020-09-20
 description:
 math: true
 tags: ["diary"]
